@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mikebrawanski]]></title>
+        <description><![CDATA[mikebrawanski]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jul 2016 16:59:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La Jolla Beach San Diego California]]></title>
+            <description><![CDATA[<article><h1>La Jolla Beach San Diego California</h1><p>Chilling with with this wonderful creature at La Jolla Beach in San Diego, California.  In case you did not know. Sea lions can dive up to 600 feet in the water to search for food and they're able to remain under water without air for about 40 minutes.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbe92824-23cf-43f2-b03a-4cebee0d6318.jpg"></article>]]></description>
+            <link>undefinedla-jolla-beach-san-diego-california/index.html</link>
+            <guid isPermaLink="false">b0b79910-e873-4e8d-944c-0208086e5adc</guid>
+            <pubDate>Mon, 18 Jul 2016 16:59:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
