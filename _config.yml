@@ -1,0 +1,29 @@
+name: mikebrawanski
+favicon: null
+layout_spectrum: 0.6144708348438144
+typography_spectrum: 0.8270061623770744
+title: Mike's World
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9042101963423193
+  lightness: 0.049473512917757034
+  saturation: 0.1747325921896845
+  rhythmicContrast: 0.36655611474998295
+purpose: []
